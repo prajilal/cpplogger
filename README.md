@@ -177,6 +177,9 @@ void CallLogExampleThree()
 }
 ```
 
+### at a glance
+![sample program execution result](https://github.com/prajilal/cpplogger/blob/master/screen.png)
+
 ## Grep:able logs
 
 ```
@@ -198,24 +201,24 @@ Defines an ID for each log message. Available IDs are:
 
 ```
 // Information level message code
-#define LOGGER_CODE_INFO_DEFAULT    		  00001
+#define LOGGER_CODE_INFO_DEFAULT    		00001
 #define LOGGER_CODE_INFO_APP_START    		00002
-#define LOGGER_CODE_INFO_APP_STOP    		  00003
+#define LOGGER_CODE_INFO_APP_STOP    		00003
 
 // Error level message code
-#define LOGGER_CODE_ERRR_DEFAULT    		  00001
-#define LOGGER_CODE_ERRR_APP_START	 		  00002
-#define LOGGER_CODE_ERRR_APP_STOP	 		    00003
+#define LOGGER_CODE_ERRR_DEFAULT    		00001
+#define LOGGER_CODE_ERRR_APP_START	 	00002
+#define LOGGER_CODE_ERRR_APP_STOP	 	00003
 
 // Warning level message code
-#define LOGGER_CODE_WARN_DEFAULT	 		    00001
-#define LOGGER_CODE_WARN_APP_START	 		  00002
-#define LOGGER_CODE_WARN_APP_STOP	 		    00003
+#define LOGGER_CODE_WARN_DEFAULT	 	00001
+#define LOGGER_CODE_WARN_APP_START	 	00002
+#define LOGGER_CODE_WARN_APP_STOP	 	00003
 
 // Critical level message code
-#define LOGGER_CODE_CRIT_DEFAULT	    	  00001
+#define LOGGER_CODE_CRIT_DEFAULT	    	00001
 #define LOGGER_CODE_CRIT_APP_START	    	00002
-#define LOGGER_CODE_CRIT_APP_STOP	    	  00003
+#define LOGGER_CODE_CRIT_APP_STOP	    	00003
 ```
 
 #### Usage Example
@@ -231,6 +234,6 @@ User can define more message IDs in Logger.h file.
 # Documentation
 Documentation can be found in the cpplogger/documentation/html/index.html.
 
-# Limitations and TODO
+# TODO
 - Rotating log files.
 - Daily log files.
