@@ -1,0 +1,4 @@
+2018-05-01 07:53:02.483 [EVENT]: Event: {application has started}
+2018-05-01 07:53:02.483 [EVENT]: CallLogExampleOne() has executed
+2018-05-01 07:53:02.483 [EVENT]: CallLogExampleTwo() has executed
+2018-05-01 07:53:02.483 [EVENT]: CallLogExampleThree() has executed

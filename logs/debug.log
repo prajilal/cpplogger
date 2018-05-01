@@ -1,0 +1,7 @@
+2018-05-01 07:53:02.483 [DEBUG]: Debug level logging (1)
+2018-05-01 07:53:02.483 [DEBUG]: main.cpp::CallLogExampleOne() Enter
+2018-05-01 07:53:02.483 [DEBUG]: main.cpp::CallLogExampleOne() Leave
+2018-05-01 07:53:02.483 [DEBUG]: main.cpp::CallLogExampleTwo(val= 25) Enter
+2018-05-01 07:53:02.483 [DEBUG]: main.cpp::CallLogExampleTwo(val= 25) Leave
+2018-05-01 07:53:02.483 [DEBUG]: main.cpp [CallLogExampleThree():140] START
+2018-05-01 07:53:02.483 [DEBUG]: CallLogExampleThree()[main.cpp:140] END

@@ -1,0 +1,6 @@
+2018-05-01 07:53:02.483 [INFO]: I000002, Starting the application...
+2018-05-01 07:53:02.483 [INFO]: I000001, Information level logging (1)
+2018-05-01 07:53:02.483 [ERR ]: E800001, Error level logging (1)
+2018-05-01 07:53:02.483 [CRIT]: C900001, Critical level logging (1)
+2018-05-01 07:53:02.483 [WARN]: W700001, Warning level logging (1)
+2018-05-01 07:53:02.483 [INFO]: I000003, Stopping the application...
